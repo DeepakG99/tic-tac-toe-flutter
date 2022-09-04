@@ -13,7 +13,7 @@ it is my learning project. hope you like this.
 #Screenshots
 
 ##Starting Window
-![alt text](https://github.com/[DeepakG99]/[tic-tac-toe-flutter]//[branch]/image.jpg?raw=true)
+![Screenshots](1.jpg)
 
 
 
