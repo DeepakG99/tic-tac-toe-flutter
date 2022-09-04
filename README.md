@@ -12,8 +12,8 @@ it is my learning project. hope you like this.
 
 #Screenshots
 
-##Starting Window
-![Screenshots](1.jpeg)
+##Start
+![Starting page](https://github.com/DeepakG99/tic-tac-toe-flutter/blob/main/Screenshots/1.jpeg)
 
 
 
